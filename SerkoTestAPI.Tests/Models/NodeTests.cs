@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using SerkoTestAPI.Models;
 
-namespace SerkoTestAPI.Tests
+namespace SerkoTestAPI.Tests.Models
 {
     [TestFixture]
     public class NodeTests

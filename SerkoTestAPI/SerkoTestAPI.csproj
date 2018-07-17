@@ -222,7 +222,6 @@
     <Compile Include="Models\XmlParseException.cs" />
     <Compile Include="Models\XmlParser.cs" />
     <Compile Include="Models\Constants.cs" />
-    <Compile Include="Models\XmlParserResponse.cs" />
     <Compile Include="Models\XmlStringManipulator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

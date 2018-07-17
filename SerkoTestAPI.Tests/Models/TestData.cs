@@ -1,7 +1,6 @@
-﻿using System;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
-namespace SerkoTestAPI.Tests
+namespace SerkoTestAPI.Tests.Models
 {
     public static class TestData
     {
